@@ -76,8 +76,8 @@ The dataset used is `listings.csv`, which contains 3,585 rows and 95 columns. Ke
 ## Deployment
 
 ### Deliverables:
-1. **GitHub Repository**: Contains the code, data, and documentation for the analysis. [Link to GitHub Repo](#)
-2. **Blog Post**: A non-technical summary of the findings, aimed at a general audience. [https://medium.com/@scknylmz35/unlocking-the-secrets-of-airbnb-listings-in-boston-a-data-driven-guide-for-hosts-and-travelers-f5d42f6803a6](#)
+1. **GitHub Repository**: Contains the code, data, and documentation for the analysis. [Link to GitHub Repo](https://github.com/scknylmz/Airbnb_Boston_Analysis)
+2. **Blog Post**: A non-technical summary of the findings, aimed at a general audience. [Medium](https://medium.com/@scknylmz35/unlocking-the-secrets-of-airbnb-listings-in-boston-a-data-driven-guide-for-hosts-and-travelers-f5d42f6803a6)
 
 ---
 
